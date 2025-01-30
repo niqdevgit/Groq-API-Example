@@ -8,3 +8,10 @@ Generate an API token.
 2. Use the API to perform tasks, such as translating English into your native 
 language. 
 3. Upload the implementation to GitHub and share the GitHub link in Google Colab. 
+
+
+## Usage
+- Clone the repo
+- run the server: "uvicorn app:app --reload"
+- have your API key on .env file
+- send http request, via postman or VScode extension
