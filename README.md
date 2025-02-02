@@ -15,3 +15,6 @@ language.
 - run the server: "uvicorn app:app --reload"
 - have your API key on .env file
 - send http request, via postman or VScode extension
+
+## Note⚠️
+The Groq API needed a credit card, so i was not able to fully test this code. It should work, if not make pull request :)
